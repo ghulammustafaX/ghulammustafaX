@@ -1,5 +1,7 @@
 # Ghulam Mustafa
 
+![Ghulam Mustafa engineering portfolio banner](assets/profile-header.svg)
+
 **Software Engineer · Applied Machine Learning · AI Automation · Full-Stack Development**
 
 I’m a final-year Software Engineering student at SZABIST Islamabad. I build systems that turn raw inputs into something people can act on, from engine telemetry and maintenance predictions to WhatsApp order workflows and browser-based tools.
@@ -13,6 +15,8 @@ I’m a final-year Software Engineering student at SZABIST Islamabad. I build sy
 **Time-series machine learning · Streaming data · Final-year project**
 
 I built the preprocessing and feature engineering pipeline and trained a PyTorch LSTM to estimate the remaining useful life of turbofan engines using NASA C-MAPSS. The project uses simulated sensor telemetry, Apache Kafka and InfluxDB to connect the model to an equipment monitoring workflow.
+
+![Predictive maintenance pipeline: NASA C-MAPSS telemetry streams through Kafka, is preprocessed into features, and feeds a PyTorch LSTM. The dashboard displays remaining useful life predictions in cycles.](assets/maintenance-pipeline.svg)
 
 [Explore the source code](https://github.com/ghulammustafaX/predictive-maintenance-system)
 
